@@ -1,0 +1,6 @@
+requests
+pymongo
+selenium
+pymongo
+python-dotenv
+
